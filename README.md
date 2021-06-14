@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames and hardware.
 - 🌱 I'm currently learning to code in various programming languages, I am still studying.
 - 💞️ I'm not really looking to collaborate on anything but I could participate in small projects.
-- 📫 You can contact me by Twitter (@Weegeedabes) or Discord (Weegee#0606).
+- 📫 You can contact me by Twitter (@Weegeedabes) or Discord (Weegee#4250).
 
 <!---
 Weegeedabes/Weegeedabes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
