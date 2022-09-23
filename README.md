@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Mike.
-- 👀 I’m interested in videogames and hardware.
-- 🌱 I'm currently learning to code in various programming languages, I am still studying.
-- 💞️ I'm not really looking to collaborate on anything but I could participate in small projects.
-- 📫 You can contact me by Discord (Weegee#3279).
+Hi, You can contact me by Discord (Weegee#3279).
