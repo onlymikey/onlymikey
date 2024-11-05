@@ -27,4 +27,4 @@ I'm a **Computer Science student** from Mexico in my second year, gaining experi
 
 ### 🌐 Connect with Me
 
-I'm open to new projects and collaborations! Feel free to reach out or connect with me on BlueSky or Discord.
+I'm open to new projects and collaborations! Feel free to reach out or connect with me on BlueSky or Discord (mikeymusso).
