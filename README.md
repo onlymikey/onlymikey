@@ -4,9 +4,9 @@ I'm a **Computer Science student** from Mexico in my second year, gaining experi
 
 ### 🌟 Interests
 
-- 🔐 **Cybersecurity**: Exploring security practices and building secure applications.
-- 🖥️ **Software Development**: Developing efficient, scalable applications with a focus on backend.
-- 🐧 **Linux**: Enjoy using Linux for my development work.
+- 🔐 **Cybersecurity**
+- 🖥️ **Software Development**
+- 🐧 **Linux**
 
 ### 🛠️ Tech Stack
 
