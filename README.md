@@ -8,6 +8,9 @@ I'm a **Computer Science student** from Mexico in my second year, gaining experi
 - 🖥️ **Software Development**
 - 🐧 **Linux**
 
+### 🎓 Certifications
+<a href="https://www.credly.com/earner/earned/badge/695acc69-b141-413d-8ed4-1002554c5d6a"><img src="https://images.credly.com/size/200x200/images/be625773-6d9f-48c0-b530-81897b58b1bf/image.png" alt="Certificado de Ciberseguridad de Google"></a>
+
 ### 🛠️ Tech Stack
 
 - **Languages**: Python, Java, C, Bash, JavaScript, with some knowledge of C++, Swift, and Kotlin.
