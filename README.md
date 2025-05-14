@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mikey
 
-I'm a **Computer Science student** from Mexico in my second year, gaining experience in software development through projects, coursework, and internships. I’m passionate about **programming** and **cybersecurity**, focusing on both backend and frontend development.
+I'm a **Computer Science student** from Mexico in my third year, gaining experience in software development through projects, coursework, and internships. I’m passionate about **programming** and **cybersecurity**, focusing on both backend and frontend development.
 
 ### 🌟 Interests
 
@@ -14,8 +14,8 @@ I'm a **Computer Science student** from Mexico in my second year, gaining experi
 ### 🛠️ Tech Stack
 
 - **Languages**: Python, Java, C, Bash, JavaScript, with some knowledge of C++, Swift, and Kotlin.
-- **Frameworks**: Django for backend, React for frontend.
-- **Tools**: Git, MySQL, PostgreSQL, and JetBrains IDEs.
+- **Frameworks**: Express and Elysia for backend, React for frontend.
+- **Tools**: Git, MySQL, PostgreSQL, and JetBrains IDEs, Fedora and Arch are my main Linux distros.
 - **APIs**: Experienced with **Spotify’s API** and exploring more for application interactivity.
 
 ### 📚 Learning Goals
