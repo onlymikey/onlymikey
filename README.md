@@ -26,8 +26,6 @@ I'm a **Computer Science student** from Mexico in my third year, gaining experie
 ### 🎮 Fun Facts
 
 - I enjoy playing **videogames**, especially the **The Legend of Zelda** series.
-- I’m a passionate **cosplayer**.
-
 ### 🌐 Connect with Me
 
 I'm open to new projects and collaborations! Feel free to reach out or connect with me on BlueSky or Discord (mikeymusso).
