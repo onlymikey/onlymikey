@@ -1,31 +1,27 @@
-# 👋 Hello, I'm Mikey
+# 👋 Hi, I'm Mikey
 
-I'm a **Computer Science student** from Mexico in my third year, gaining experience in software development through projects, coursework, and internships. I’m passionate about **programming** and **cybersecurity**, focusing on both backend and frontend development.
+I'm a Computer Science student from Mexico in my third year.
 
-### 🌟 Interests
+I build tools, systems, and interactive projects around Linux and the web.
 
-- 🔐 **Cybersecurity**
-- 🖥️ **Software Development**
-- 🐧 **Linux**
+### My tech stack:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/platformio-%23000.svg?style=for-the-badge&logo=platformio&logoColor=F5822A)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🎓 Certifications
-<a href="https://www.credly.com/earner/earned/badge/695acc69-b141-413d-8ed4-1002554c5d6a"><img src="https://images.credly.com/size/200x200/images/be625773-6d9f-48c0-b530-81897b58b1bf/image.png" alt="Certificado de Ciberseguridad de Google"></a>
+In my free time I usually listen to music, play games, or fall into random internet rabbit holes that sometimes turn into projects.
 
-### 🛠️ Tech Stack
+I enjoy deep conversations, philosophy, and engaging with social topics.
 
-- **Languages**: Python, Java, C, Bash, JavaScript, with some knowledge of C++, Swift, and Kotlin.
-- **Frameworks**: Express and Elysia for backend, React for frontend.
-- **Tools**: Git, MySQL, PostgreSQL, and JetBrains IDEs, Fedora and Arch are my main Linux distros.
-- **APIs**: Experienced with **Spotify’s API** and exploring more for application interactivity.
+I'm part of **Mars Rover UdeG Space**, our university team for the University Rover Challenge, where I work on embedded software.
 
-### 📚 Learning Goals
-
-- Learning **German** to expand my language skills.
-- Exploring **React** and **Ruby** for development.
-
-### 🎮 Fun Facts
-
-- I enjoy playing **videogames**, especially the **The Legend of Zelda** series.
-### 🌐 Connect with Me
-
-I'm open to new projects and collaborations! Feel free to reach out or connect with me on BlueSky or Discord (mikeymusso).
+You can reach me for projects, ideas, collaboration, or anything worth a real conversation.  
+Discord: mikeymusso
