@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mikey
 
-I'm a Computer Science student from Mexico in my third year.
+I'm a Computer Engineering student from Mexico in my third year.
 
 I build tools, systems, and interactive projects around Linux and the web.
 
